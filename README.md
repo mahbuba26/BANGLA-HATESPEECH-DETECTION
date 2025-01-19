@@ -30,3 +30,5 @@ We tried to implement a lightweight model with hybrid combination of different d
 An analysis of our approached model is done here:
 ![Performance Metrics of Hybrid Models](compare.png)
 
+This work can be accessed here: [BANGLA-HATESPEECH-DETECTION](https://github.com/mahbuba26/BANGLA-HATESPEECH-DETECTION/blob/main/Our%20Final%20Work.ipynb)
+
