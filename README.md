@@ -1,6 +1,9 @@
 # HyBangla: A Hybrid Approach to Bangla CyberBullying Detection
-# Mahbuba Habib- 0424052083, Khadija Tul Kubra - 0424052097, and Samia Nawshin- 0422054007
+Mahbuba Habib- 0424052083, Khadija Tul Kubra - 0424052097, and Samia Nawshin- 0422054007
+
 Group - 08
+
+Gmail: mahbubahabib.cse@gmail.com, tkhadija555@gmail.com, samia.nawshin@gmail.com
 
 We tried to implement a lightweight model with hybrid combination of different deep learning models. Hybrid models like LSTM-GRU combine the strengths of both architectures—LSTM's ability to capture long-term dependencies and GRU's efficiency in processing sequential data. This synergy improves performance on critical metrics like Precision and F1 Score, ensuring a better balance between detecting true positives and avoiding false positives. While accuracy may not significantly improve, the hybrid model's robustness in handling complex patterns makes it ideal for tasks requiring nuanced sequence understanding. Its adaptability to diverse data distributions justifies its superiority over single architecture models. 
 
